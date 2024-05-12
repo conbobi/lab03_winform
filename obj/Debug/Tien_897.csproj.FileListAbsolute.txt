@@ -1,0 +1,24 @@
+C:\Users\Coding everything\source\repos\Tien_897\Tien_897\bin\Debug\Tien_897.exe.config
+C:\Users\Coding everything\source\repos\Tien_897\Tien_897\bin\Debug\Tien_897.exe
+C:\Users\Coding everything\source\repos\Tien_897\Tien_897\bin\Debug\Tien_897.pdb
+C:\Users\Coding everything\source\repos\Tien_897\Tien_897\obj\Debug\Tien_897.csproj.AssemblyReference.cache
+C:\Users\Coding everything\source\repos\Tien_897\Tien_897\obj\Debug\Tien_897.FrmLogin.resources
+C:\Users\Coding everything\source\repos\Tien_897\Tien_897\obj\Debug\Tien_897.frmMDI.resources
+C:\Users\Coding everything\source\repos\Tien_897\Tien_897\obj\Debug\Tien_897.frmSolve.resources
+C:\Users\Coding everything\source\repos\Tien_897\Tien_897\obj\Debug\Tien_897.Properties.Resources.resources
+C:\Users\Coding everything\source\repos\Tien_897\Tien_897\obj\Debug\Tien_897.csproj.GenerateResource.cache
+C:\Users\Coding everything\source\repos\Tien_897\Tien_897\obj\Debug\Tien_897.csproj.CoreCompileInputs.cache
+C:\Users\Coding everything\source\repos\Tien_897\Tien_897\obj\Debug\Tien_897.exe
+C:\Users\Coding everything\source\repos\Tien_897\Tien_897\obj\Debug\Tien_897.pdb
+D:\winform\Tien_897\Tien_897\bin\Debug\Tien_897.exe.config
+D:\winform\Tien_897\Tien_897\bin\Debug\Tien_897.exe
+D:\winform\Tien_897\Tien_897\bin\Debug\Tien_897.pdb
+D:\winform\Tien_897\Tien_897\obj\Debug\Tien_897.csproj.AssemblyReference.cache
+D:\winform\Tien_897\Tien_897\obj\Debug\Tien_897.FrmLogin.resources
+D:\winform\Tien_897\Tien_897\obj\Debug\Tien_897.frmMDI.resources
+D:\winform\Tien_897\Tien_897\obj\Debug\Tien_897.frmSolve.resources
+D:\winform\Tien_897\Tien_897\obj\Debug\Tien_897.Properties.Resources.resources
+D:\winform\Tien_897\Tien_897\obj\Debug\Tien_897.csproj.GenerateResource.cache
+D:\winform\Tien_897\Tien_897\obj\Debug\Tien_897.csproj.CoreCompileInputs.cache
+D:\winform\Tien_897\Tien_897\obj\Debug\Tien_897.exe
+D:\winform\Tien_897\Tien_897\obj\Debug\Tien_897.pdb
